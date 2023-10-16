@@ -1,0 +1,26 @@
+
+button{
+    display: flex;
+    padding: 30px;
+    margin: auto;
+    background-color: blue;
+    color: white;
+    border: 2px solid black;
+    border-radius: 2px;
+    justify-self: center;
+    align-self: center;
+}
+
+.container{
+    display: flex;
+    orientation: horizontal;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.box{
+    display: flex;
+    border: 2px solid black;
+    margin: 0px;
+}
